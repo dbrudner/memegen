@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+// import "@/styles/globals.css";
 import {
   createTheme,
   CssBaseline,
@@ -8,7 +8,7 @@ import type { AppProps } from "next/app";
 
 const darkTheme = createTheme({
   palette: {
-    mode: "dark",
+    // mode: "dark",
   },
 });
 
